@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Calculator/static/css/main.8d59906c.chunk.css"
   },
   {
-    "revision": "958dd07559ce8fe3bc9e9071e3bfd150",
+    "revision": "7777b12585af8b68b737b4ce9bab3f9b",
     "url": "/Calculator/index.html"
   }
 ];
